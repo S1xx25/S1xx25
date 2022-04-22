@@ -11,7 +11,7 @@
 💻 Full-Stack Developer!!
   </h3>
   </div>
-https://github.com/S1xx25/S1xx25/blob/main/Baner/giphy.gif
+![I am GitHub Readme Generator's creator] (https://github.com/S1xx25/S1xx25/blob/main/Baner/giphy.gif)
 
 skills: VUE  / Python / JS / HTML / CSS / TypeScrip /JavaScrip /Angular 
 
