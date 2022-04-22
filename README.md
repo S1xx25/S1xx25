@@ -11,10 +11,12 @@
 💻 Full-Stack Developer!!
   </h3>
   </div>
-  
-  <div text-align>
-![I am GitHub Readme Generator's creator](https://github.com/S1xx25/S1xx25/blob/main/Baner/giphy.gif)
-</div>
+ 
+ ![I am GitHub Readme Generator's creator](https://github.com/S1xx25/S1xx25/blob/main/Baner/giphy.gif)>
+    
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Debir Liceaga/)  
+
+
 
 skills: VUE  / Python / JS / HTML / CSS / TypeScrip /JavaScrip /Angular 
 
